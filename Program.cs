@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TicTacToeExercise
+namespace XOX-Game
 {
     class Program
     {
